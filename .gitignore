@@ -1,0 +1,12 @@
+build
+Build
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+xcuserdata
+project.xcworkspace
+.DS_Store
+bin/
+.com.apple.timemachine.supported
+.app
+.ipa
